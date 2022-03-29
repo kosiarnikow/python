@@ -1,0 +1,20 @@
+parrot = "Norwegian Blue"
+
+print len(parrot)
+
+# len () - liczy ilosc u¿ytych znaków z nawiasie
+______________________________________________________________________
+
+parrot = "norwegian blue"
+
+print parrot.upper()
+
+# wszystkie litery w Stringu zmieni¹ siê na du¿e
+
+______________________________________________________________________
+
+parrot = "norwegian blue"
+
+print parrot.lower()
+
+# wszystkie litery w Stringu zmieni¹ siê na ma³e 
